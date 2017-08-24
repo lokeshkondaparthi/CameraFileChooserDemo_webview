@@ -29,6 +29,8 @@ import java.util.Date;
 *   which is added in your provider tag in Manifest.xml
 *
 *   Note: Permissions must be granted.
+*
+*   How to caputre image properly: https://developer.android.com/training/camera/photobasics.html  
 * */
 public class MainActivity extends AppCompatActivity {
 
